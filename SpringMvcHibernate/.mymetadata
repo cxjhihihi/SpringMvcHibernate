@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SpringMvcHibernate"
+  id="myeclipse.1453862380986"
+  context-root="/SpringMvcHibernate"
+  j2ee-spec="5.0"
+  archive="SpringMvcHibernate.war">
+  <attributes>
+    <attribute name="webrootdir" value="Web" />
+  </attributes>
+</project-module>
+
